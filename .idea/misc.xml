@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/button_t.xml" value="0.207" />
+        <entry key="app/src/main/res/layout/activity_assignment_s.xml" value="0.30092592592592593" />
+        <entry key="app/src/main/res/layout/activity_exam_s.xml" value="0.30092592592592593" />
+        <entry key="app/src/main/res/layout/activity_exam_schedule.xml" value="0.30092592592592593" />
+        <entry key="app/src/main/res/layout/activity_fees_s.xml" value="0.15520833333333334" />
+        <entry key="app/src/main/res/layout/activity_holiday.xml" value="0.30092592592592593" />
+        <entry key="app/src/main/res/layout/activity_home_student.xml" value="0.30092592592592593" />
+        <entry key="app/src/main/res/layout/activity_hostel_sactivity.xml" value="0.30092592592592593" />
+        <entry key="app/src/main/res/layout/activity_mentees_tactivity.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/activity_notice.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/activity_notice_tactivity.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/activity_pending.xml" value="0.2907692307692308" />
+        <entry key="app/src/main/res/layout/activity_pre_login_new.xml" value="0.30092592592592593" />
+        <entry key="app/src/main/res/layout/activity_sprofile_new.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/activity_teacherlist_s.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/activity_timetable_s.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_transport_sactivity.xml" value="0.30092592592592593" />
+        <entry key="app/src/main/res/layout/assignment_teacher_new.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/home_card.xml" value="0.30092592592592593" />
+        <entry key="app/src/main/res/layout/item_exam.xml" value="0.30092592592592593" />
+        <entry key="app/src/main/res/layout/item_exam_new.xml" value="0.30092592592592593" />
+        <entry key="app/src/main/res/layout/item_menteeslist_T.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/item_teacherlist_s_new.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/item_timetable_s.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/result_teacher_new.xml" value="0.17" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

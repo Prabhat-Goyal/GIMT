@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="home_category_icon">
+        <item>@drawable/ic_profile1</item>
+        <item>@drawable/ic_attendance</item>
+        <item>@drawable/ic_exam</item>
+        <item>@drawable/ic_result</item>
+        <item>@drawable/ic_teacher3</item>
+        <item>@drawable/ic_growth</item>
+        <item>@drawable/ic_holidays</item>
+
+        <item>@drawable/ic_events</item>
+        <item>@drawable/ic_notice2</item>
+        <item>@drawable/ic_school3</item>
+        <item>@drawable/ic_time_table</item>
+        <item>@drawable/ic_fees</item>
+        <item>@drawable/hostel</item>
+        <item>@drawable/vehicles</item>
+        <item>@drawable/bookshelf</item>
+        <item>@drawable/shutdown</item>
+    </integer-array>
+
+    <string-array name="home_category_title">
+        <item>Profile</item>
+        <item>Attendance</item>
+        <item>Exams</item>
+        <item>Result</item>
+        <item>Teacher</item>
+
+        <item>Assignments</item>
+        <item>Holidays</item>
+        <item>Events</item>
+        <item>Notice</item>
+        <item>Institute Profile</item>
+        <item>Time Table</item>
+        <item>Fees</item>
+        <item>Hostel</item>
+        <item>Transport</item>
+        <item>library</item>
+        <item>Logout</item>
+
+    </string-array>
+
+
+    <integer-array name="home_category_icon_t">
+        <item>@drawable/ic_profile1</item>
+        <item>@drawable/ic_attendance</item>
+        <item>@drawable/ic_result</item>
+        <item>@drawable/ic_growth</item>
+        <item>@drawable/ic_holidays</item>
+        <item>@drawable/ic_time_table</item>
+        <item>@drawable/ic_notice2</item>
+        <item>@drawable/counseling</item>
+
+        <item>@drawable/shutdown</item>
+    </integer-array>
+
+    <string-array name="home_category_title_t">
+        <item>Profile</item>
+        <item>Attendance</item>
+        <item>Result</item>
+
+        <item>Assignments</item>
+        <item>Holidays</item>
+        <item>Time Table</item>
+        <item>Notice</item>
+        <item>Mentees</item>
+        <item>Logout</item>
+
+    </string-array>
+
+
+</resources>
